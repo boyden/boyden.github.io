@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. candidate majoring in Biomedical Engineering (BME) at University of Science and Technology of China (USTC). I am expected to receive my PhD degree in June, 2024. Prior to that, I have got B.E. degree at USTC in 2019. 
+I am currently a final-year Ph.D. candidate majoring in Biomedical Engineering (BME) at University of Science and Technology of China (USTC). I am expected to receive my PhD degree in June, 2024. Prior to that, I obtained my B.E. degree from USTC in 2019.
 
 My primary research interests lie in computational pathology, focusing on the quantitative analysis of gigabyte-sized whole slide images using deep learning. I am dedicated to developing advanced models with the long-term goal of reducing pathologists' workload and improving patients' survival. I am also familiar with Magnetic Resonance Imaging. I have published 5+ papers with <a href='https://scholar.google.com/citations?user=fSOIIQMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
