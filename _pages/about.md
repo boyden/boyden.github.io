@@ -45,52 +45,35 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Image Analysis 2023</div><img src='images/mia2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Bao Li`, Zhenyu Liu, Song Zhang, Xiangyu Liu, Caixia Sun, Jiangang Liu, Bensheng Qiu, Jie Tian. NuHTC: A Hybrid Task Cascade for Nuclei Instance Segmentation and Classification. **Medical Image Analysis**. 2023 (Minor Revision).
+- **Bao Li**, et al. NuHTC: A Hybrid Task Cascade for Nuclei Instance Segmentation and Classification. ***Medical Image Analysis***. 2023 (Minor Revision).
 [[Code]](https://github.com/boyden/NuHTC)
 
 </div>
 </div>
 
-### First-Author Papers
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- `Bao Li`, Zhenyu Liu, Lizhi Shao, Bensheng Qiu, Hong Bu, Jie Tian. Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images. **AAAI 2024**. [[HTML]](https://arxiv.org/abs/2312.06454) [[Code]](https://github.com/boyden/PointTransformerFL)
-</div>
-</div>
+### Journal
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Breast 2022</div><img src='images/breast2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Bao Li`, Fengling Li, Zhenyu Liu, Fangping Xu, Guolin Ye, Wei Li, Yimin Zhang, Teng Zhu, Lizhi Shao, Chi Chen, Caixia Sun, Bensheng Qiu, Hong Bu, Kun Wang, Jie Tian. Deep Learning with Biopsy Whole Slide Images for Pretreatment Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study. **Breast**. 2022, 66: 183-190. (JCR:Q1; IF:3.9) 
+- **Bao Li**, et al. Deep Learning with Biopsy Whole Slide Images for Pretreatment Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study. ***Breast***. 2022, 66: 183-190. (JCR:Q1; IF:3.9) 
 [[HTML]](https://doi.org/10.1016/j.breast.2022.10.004) [[Code]](https://github.com/boyden/Pretreatment-Prediction-to-NAC-DLPM)
 </div>
 </div>
 
-### Journal
-
----
-
-<div class='paper-box-text-li' markdown="1">
-
-- Caixia Sun, Tao Luo, Zhenyu Liu, Jia Ge, Lizhi Shao, Xiangyu Liu, `Bao Li`, Song Zhang, Qi Qiu, Wei Wei, Shuo Wang, XiuWu Bian, Jie Tian. Tumor Mutation Burden-related Histopathological Features for Predicting Overall Survival in Gliomas Using Graph Deep Learning. **The American Journal of Pathology**. 2023, 193(12): 2111-2121. (JCR:Q1; IF:6.0)
-[[HTML]](https://doi.org/10.1016/j.ajpath.2023.08.015)
-
-
-- Song Zhang, Guoxiang Cai, Peiyi Xie, Caixia Sun, `Bao Li`, Weixing Dai, Xiangyu Liu, Qi Qiu, Yang Du, Zhenhui Li, Zhenyu Liu, Jie Tian. Improving Prognosis and Assessing Adjuvant Chemotherapy Benefit in Locally Advanced Rectal Cancer with Deep Learning for MRI: A Retrospective, Multi-cohort Study. **Radiotherapy and Oncology**. 2023, 188: 109899. (JCR:Q1; IF:5.7) 
-[[HTML]](https://doi.org/10.1016/j.radonc.2023.109899)
-
-- Xiangyu Liu, Zhenyu Liu, Ye Yan, Kai Wang, Aodi Wang, Xiongjun Ye, Liwei Wang, Wei Wei, `Bao Li`, Caixia Sun, Wei He, Xuehua Zhu, Zenan Liu, Jiangang Liu, Jian Lu, Jie Tian. Development of Prognostic Biomarkers by TMB-Guided WSI Analysis: A Two-Step Approach. **IEEE Journal of Biomedical and Health Informatics**. 2023, 27(4): 1780-1789. (JCR:Q1; IF:7.7) 
-[[HTML]](https://doi.org/10.1109/JBHI.2023.3249354)
-
-</div>
 
 ### Conference
 
-- `Bao Li`, Zhenyu Liu, Yang Du, Jie Tian. Breast Cancer HER2 Status Prediction from Hematoxylin-Eosin Stained Images Using Point Cloud Transformer. **In Proceedings of the 2023 San Antonio Breast Cancer Symposium**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- `Bao Li`, Teng Zhu, Zhenyu Liu, Kun Wang, Jie Tian. Multi-omics Fusion for Prediction of Response to Neoadjuvant Therapy in Breast Cancer with External Validation. **In Proceedings of the 2021 San Antonio Breast Cancer Symposium**. [[News]](https://new.qq.com/rain/a/20211208A0AYHC00)
+- **Bao Li**, et al. Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images. ***AAAI***. 2024, 38(4): 3000-3008. [[HTML]](https://arxiv.org/abs/2312.06454) [[Code]](https://github.com/boyden/PointTransformerFL)
+</div>
+</div>
+
+- **Bao Li**, et al. Breast Cancer HER2 Status Prediction from Hematoxylin-Eosin Stained Images Using Point Cloud Transformer. **In Proceedings of the 2023 San Antonio Breast Cancer Symposium**.
+
+- **Bao Li**, et al. Multi-omics Fusion for Prediction of Response to Neoadjuvant Therapy in Breast Cancer with External Validation. **In Proceedings of the 2021 San Antonio Breast Cancer Symposium**. [[News]](https://new.qq.com/rain/a/20211208A0AYHC00)
 
 
 # 🏅 Honors and Awards
