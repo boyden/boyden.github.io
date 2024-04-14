@@ -71,9 +71,9 @@ My research interest includes:
 </div>
 </div>
 
-- **Bao Li**, et al. Breast Cancer HER2 Status Prediction from Hematoxylin-Eosin Stained Images Using Point Cloud Transformer. **In Proceedings of the 2023 San Antonio Breast Cancer Symposium**.
+- **Bao Li**, et al. Breast Cancer HER2 Status Prediction from Hematoxylin-Eosin Stained Images Using Point Cloud Transformer. ***In Proceedings of the 2023 San Antonio Breast Cancer Symposium***.
 
-- **Bao Li**, et al. Multi-omics Fusion for Prediction of Response to Neoadjuvant Therapy in Breast Cancer with External Validation. **In Proceedings of the 2021 San Antonio Breast Cancer Symposium**. [[News]](https://new.qq.com/rain/a/20211208A0AYHC00)
+- **Bao Li**, et al. Multi-omics Fusion for Prediction of Response to Neoadjuvant Therapy in Breast Cancer with External Validation. ***In Proceedings of the 2021 San Antonio Breast Cancer Symposium***. [[News]](https://new.qq.com/rain/a/20211208A0AYHC00)
 
 
 # 🏅 Honors and Awards
