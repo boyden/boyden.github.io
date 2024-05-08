@@ -21,7 +21,7 @@ I am currently a final-year Ph.D. candidate majoring in Biomedical Engineering (
 
 My primary research interests lie in computational pathology, focusing on the quantitative analysis of gigabyte-sized whole slide images using deep learning. I am dedicated to developing advanced models with the long-term goal of reducing pathologists' workload and improving patients' survival. I have published 5+ papers with <a href='https://scholar.google.com/citations?user=fSOIIQMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-**I am actively seeking a PostDoc or Research Associate position in computational pathology starting in the summer of 2024. Feel free to <a href="mailto:lee787359142@gmail.com">Email</a> me if you are interested in my research.**
+**I am actively seeking a PostDoc or Research Associate position in computational pathology starting in the summer of 2024. Feel free to <a href="mailto:libao1506@mail.ustc.edu.cn">Email</a> me if you are interested in my research.**
 
 My research interest includes:
 - Computational Pathology
