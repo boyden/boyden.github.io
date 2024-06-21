@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Ph.D. degree in Biomedical Engineering (BME) from University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
+I obtained my Ph.D. in Biomedical Engineering (BME) from the University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
 
 My primary research interests lie in computational pathology, focusing on the quantitative analysis of gigabyte-sized whole slide images using deep learning. I am dedicated to developing advanced models with the long-term goal of reducing pathologists' workload and improving patients' survival. I have published 5+ papers with <a href='https://scholar.google.com/citations?user=fSOIIQMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -26,7 +26,7 @@ My primary research interests lie in computational pathology, focusing on the qu
 My research interest includes:
 - Computational Pathology
 - Whole Slide Image Analysis
-- Medeical Image Analysis
+- Medical Image Analysis
 
 # 🔥 News
 - *2023.12*: 🎉 A first-author paper is accepted by AAAI 2024!
@@ -77,7 +77,7 @@ My research interest includes:
 
 
 # 🏅 Honors and Awards
-- *2022*  `First Class` Ph.D. Scholoarship of University of Science and Technology.
-- *2021*  `Second Class` Ph.D. Scholoarship of University of Science and Technology.
-- *2017.10* `2nd Prize` in the 17th "RoboGame" of University of Science and Technology (SV Team). [[News]](https://news.ustc.edu.cn/info/1056/62820.htm)
+- *2022*  `First Class` Ph.D. Scholarship of the University of Science and Technology.
+- *2021*  `Second Class` Ph.D. Scholarship of the University of Science and Technology.
+- *2017.10* `2nd Prize` in the 17th "RoboGame" of the University of Science and Technology (SV Team). [[News]](https://news.ustc.edu.cn/info/1056/62820.htm)
 
