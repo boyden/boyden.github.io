@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. candidate majoring in Biomedical Engineering (BME) at the University of Science and Technology of China (USTC). I am expected to receive my PhD degree in June 2024. Before that, I obtained my B.E. degree from USTC in 2019.
+I obtained my Ph.D. degree in Biomedical Engineering (BME) from University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
 
 My primary research interests lie in computational pathology, focusing on the quantitative analysis of gigabyte-sized whole slide images using deep learning. I am dedicated to developing advanced models with the long-term goal of reducing pathologists' workload and improving patients' survival. I have published 5+ papers with <a href='https://scholar.google.com/citations?user=fSOIIQMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -33,7 +33,7 @@ My research interest includes:
 
 
 # 🎓 Experiences
-- <a href="http://en.ustc.edu.cn/"><img class="jpg" src="/images/ustcblue.jpg" width="46pt"></a> **2019.09 - 2024.06 (expected)**, Ph.D., University of Science and Technology of China. 
+- <a href="http://en.ustc.edu.cn/"><img class="jpg" src="/images/ustcblue.jpg" width="46pt"></a> **2019.09 - 2024.06**, Ph.D., University of Science and Technology of China. 
 - <a href="https://ucr.edu"><img class="jpg" src="/images/ucr.jpg" width="46pt"></a> **2018.07 - 2018.09**, Summer Research Intern, University of California, Riverside.
 - <a href="https://en.ustc.edu.cn/"><img class="jpg" src="/images/ustcblue.jpg" width="46pt"></a> **2015.09 - 2019.06**, B.E., University of Science and Technology of China. 
 
@@ -56,7 +56,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Breast 2022</div><img src='images/breast2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Bao Li**, et al. Deep Learning with Biopsy Whole Slide Images for Pretreatment Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study. ***Breast***. 2022, 66: 183-190. (JCR:Q1; IF:3.9) 
+- **Bao Li**, et al. Deep Learning with Biopsy Whole Slide Images for Pretreatment Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study. ***Breast***. 2022, 66: 183-190. (JCR:Q1; IF:5.7) 
 [[HTML]](https://doi.org/10.1016/j.breast.2022.10.004) [[Code]](https://github.com/boyden/Pretreatment-Prediction-to-NAC-DLPM)
 </div>
 </div>
