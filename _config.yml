@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bao Li"
-description              : "Ph.D. in BME from USTC"
+description              : "Postdoc at HMS"
 repository               : "boyden/boyden.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bao Li (李豹)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Science and Technology of China"
-  location         : "Hefei, China"
+  bio              : # "University of Science and Technology of China"
+  location         : "Boston, Massachusetts"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fSOIIQMAAAAJ"
-  email            : "libao1506@mail.ustc.edu.cn"
+  email            : "baoli.hms@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Bao_Li19"
   uri              : 
   bitbucket        :

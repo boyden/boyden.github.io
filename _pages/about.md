@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Ph.D. in Biomedical Engineering (BME) from the University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
+I am a Postdoc in <a href="https://yulab.hms.harvard.edu/">Dr. Kun-Hsing Yu's Lab</a> in Harvard Medical School. I obtained my Ph.D. in Biomedical Engineering (BME) from the University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
 
 My primary research interests lie in computational pathology, focusing on the quantitative analysis of pathology images. I am dedicated to developing advanced models with the long-term goal of reducing pathologists' workload and improving patients' survival. I have published 5+ papers with <a href='https://scholar.google.com/citations?user=fSOIIQMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -32,6 +32,8 @@ My research interest includes:
 
 
 # 🎓 Experiences
+- <a href="https://hms.harvard.edu/"><img class="jpg" src="/images/hms_logo.jpg" width="46pt"></a> **2024.10 - Present**, 
+Postdoctoral Research Fellow, Harvard Medical School. 
 - <a href="http://en.ustc.edu.cn/"><img class="jpg" src="/images/ustcblue.jpg" width="46pt"></a> **2019.09 - 2024.06**, Ph.D., University of Science and Technology of China. 
 - <a href="https://ucr.edu"><img class="jpg" src="/images/ucr.jpg" width="46pt"></a> **2018.07 - 2018.09**, Summer Research Intern, University of California, Riverside.
 - <a href="https://en.ustc.edu.cn/"><img class="jpg" src="/images/ustcblue.jpg" width="46pt"></a> **2015.09 - 2019.06**, B.E., University of Science and Technology of China. 
