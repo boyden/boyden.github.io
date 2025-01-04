@@ -41,16 +41,6 @@ Postdoctoral Research Fellow, Harvard Medical School.
 
 # 📝 Publications 
 
-### In Submission
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Image Analysis 2023</div><img src='images/mia2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **Bao Li**, et al. NuHTC: A Hybrid Task Cascade for Nuclei Instance Segmentation and Classification. ***Medical Image Analysis***. 2023 (Minor Revision).
-[[Code]](https://github.com/boyden/NuHTC)
-
-</div>
-</div>
 
 ### Journal
 
