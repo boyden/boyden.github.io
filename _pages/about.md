@@ -70,5 +70,5 @@ Postdoctoral Research Fellow, Harvard Medical School.
 # 🏅 Honors and Awards
 - *2022*  `First Class` Ph.D. Scholarship of the University of Science and Technology.
 - *2021*  `Second Class` Ph.D. Scholarship of the University of Science and Technology.
-- *2017.10* `2nd Prize` in the 17th "RoboGame" of the University of Science and Technology (SV Team). [[News]](https://news.ustc.edu.cn/info/1056/62820.htm)
+- *2017.10* `Runner-up` in the 17th "RoboGame" of the University of Science and Technology (SV Team). [[News]](https://news.ustc.edu.cn/info/1056/62820.htm)
 
