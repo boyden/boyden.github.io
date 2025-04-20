@@ -48,7 +48,7 @@ Postdoctoral Research Fellow, Harvard Medical School.
 <div class='paper-box-text' markdown="1">
 
 - **Bao Li**, et al. Deep Learning with Biopsy Whole Slide Images for Pretreatment Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study. ***Breast***. 2022, 66: 183-190. (JCR:Q1; IF:5.7) 
-[[HTML]](https://doi.org/10.1016/j.breast.2022.10.004) [[Code]](https://github.com/boyden/Pretreatment-Prediction-to-NAC-DLPM)
+[[HTML]](https://doi.org/10.1016/j.breast.2022.10.004)
 </div>
 </div>
 
