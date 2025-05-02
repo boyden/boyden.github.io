@@ -14,7 +14,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install Reqs
       run: |
-        sudo apt-get install python3-setuptools
+          sudo apt-get update
+          sudo apt-get install -y python3-pip python3-setuptools
     - name: Run
       run: |
         cd ./google_scholar_crawler
