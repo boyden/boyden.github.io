@@ -46,7 +46,7 @@ Postdoctoral Research Fellow, Harvard Medical School.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2025</div><img src='images/mia2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Bao Li**, et al. Deep Learning with Biopsy Whole Slide Images for Pretreatment Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study. ***Medical Image Analysis***. 2025, 103: 103595. (JCR:Q1; IF:10.7) 
+- **Bao Li**, et al. NuHTC: A Hybrid Task Cascade for Nuclei Instance Segmentation and Classification. ***Medical Image Analysis***. 2025, 103: 103595. (JCR:Q1; IF:10.7) 
 [[HTML]](https://doi.org/10.1016/j.media.2025.103595) [[Code]](https://github.com/boyden/NuHTC)
 </div>
 </div>
