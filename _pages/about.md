@@ -28,6 +28,7 @@ My research interest includes:
 - Medical Image Analysis
 
 # 🔥 News
+- *2025.07*: 🎉 A first-author paper is accepted by MIA!
 - *2023.12*: 🎉 A first-author paper is accepted by AAAI 2024!
 
 
