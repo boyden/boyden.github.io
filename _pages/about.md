@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoc at Harvard Medical School working with <a href="https://yulab.hms.harvard.edu/">Dr. Kun-Hsing Yu</a>. I obtained my Ph.D. in Biomedical Engineering (BME) from the University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
+I am a Postdoc at Harvard Medical School working with Dr. Kun-Hsing Yu. I obtained my Ph.D. in Biomedical Engineering (BME) from the University of Science and Technology of China (USTC) in June 2024. Before that, I got my B.E. degree from USTC in 2019.
 
 My primary research interests lie in computational pathology, focusing on the quantitative analysis of pathology images. I am dedicated to developing advanced models with the long-term goal of reducing pathologists' workload and improving patients' survival. I have published 5+ papers with <a href='https://scholar.google.com/citations?user=fSOIIQMAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url={{ url | url_encode }}&query=%24.message&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
